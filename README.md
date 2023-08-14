@@ -1,4 +1,4 @@
--# Hey there! 👋 I'm @ChadBowler
+# Hey there! 👋 I'm @ChadBowler
 
 ## Full Stack Web Developer
 
