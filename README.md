@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm on a transformative journey from a backgrou
 
 ### 🌐 About Me
 
-With a unique blend of skills acquired from my law enforcement career, I bring exceptional communication abilities and critical thinking to the world of coding. My transition into web development has been driven by my deep-seated passion for technology, honed since my high school days when I dabbled with languages like C++, Dr Scheme, and Pascal.
+With a unique blend of skills acquired from my law enforcement career, I bring exceptional communication abilities and critical thinking to the world of coding. My transition into web development has been driven by my deep-seated passion for technology, honed since my high school days when I studied computer science in languages like C++, Dr Scheme, and Pascal.
 
 ### 💡 Key Attributes
 
