@@ -24,6 +24,6 @@ Explore a variety of coding projects showcasing my skills in both front-end and 
 
 ### 📬 Let's Connect
 
-If you're seeking an adaptable and innovative full stack web developer who thrives on creative problem-solving, I'd love to connect. Reach out to me through my [LinkedIn](https://www.linkedin.com/in/chad-bowler-82683b5/) profile to explore how my background and skills can contribute to your projects.
+If you're seeking an adaptable and innovative full stack web developer who thrives on creative problem-solving, I'd love to connect. Reach out to me through my [LinkedIn](https://www.linkedin.com/in/chad-bowler-82683b5/) profile or visit my personal website [here](www.chadbowler.com) to explore how my background and skills can contribute to your projects.
 
 Thank you for visiting my GitHub repository—I'm excited to collaborate, learn, and continue pushing the boundaries of web development! 🌐🚀
